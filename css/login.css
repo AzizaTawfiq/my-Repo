@@ -1,0 +1,56 @@
+body{   background-color:white;
+    padding: 0px;
+    margin:0px;
+    
+    
+    
+        }
+                                /* Start Header */
+#header {height:70px;width:100%;border-bottom:1px solid rgba(57,73,76,0.35); }
+#header .di1{     height:100%;
+                  width:100%;
+                  float: left;
+                  margin-left: 100px;
+                }
+#header .di1 a img { margin-top: 20px;}
+#forma{   width:100%;height: 600px; background-color: rgb(240,240, 240);padding-bottom:25px ;}
+#forma div{ width:515px;
+    height:460px;
+     background-color: white;
+     position:relative;
+    top:70px;left:30%;
+    padding-top: 40px;
+    box-shadow: 0 1px 6px rgba(57,73,76,0.35);}
+
+#forma div p{text-align: center;font-size: 25px;font-family: Arial, Helvetica, sans-serif;}
+#forma div input{ display: block;margin-left:15%;padding: 10px;width:325px ;margin-top: 50px;/* border:none */}
+#forma div input:hover,#forma div input:active{border: 1px solid green;}
+#forma div button{ display: block;margin-left:30%; 
+    margin-top: 30px;
+    width: 210px;
+    padding: 10px;
+    background-color:rgb(29,163, 5);
+    border: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 80px}
+
+#forma div p {font-size:15px;padding-top:10px;color:rgb(112, 106, 106)}
+
+/* End Header */
+                                           /* Start Footer */
+footer{height:120px;background-color:rgb(37,37,37);padding-top:20px;text-align:center;} 
+footer p{color:whitesmoke;font-size:15px;font-family:Arial, Helvetica, sans-serif; margin-bottom:0px; }
+footer  a{ color:rgb(122, 112, 112);
+    display:block;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px; 
+  
+    margin-top: 5px;
+
+} 
+footer  a:hover { text-decoration: underline;}
+
+                                           /* End Footer */

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 89 83" width="89px" height="83px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="svg-collaboration" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1403 -168)">
+            <g transform="translate(1403 170)">
+                <polygon points="63.464 39.644 20.997 39.644 20.997 52.523 7.5102 39.644 0.49393 39.644 0.49393 0.84653 63.464 0.84653 63.464 34.29" fill="#fff" />
+                <polygon points="56.895 39.172 20.548 39.172 20.548 52.051 9.0052 39.172 3 39.172 3 0.3744 56.895 0.3744 56.895 33.818" stroke="#979797" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" />
+                <path d="m12 10h35.248" stroke="#B2B2B2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+                <path d="m12 18h30.708" stroke="#B2B2B2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+                <path d="m12 27h15.124" stroke="#B2B2B2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+                <polygon points="87.059 29.541 87.059 68.772 81.466 68.772 70.716 79.506 70.716 68.772 35.619 68.772 35.619 29.541" fill="#CDF5FF" />
+                <g transform="translate(35.556 28.642)">
+                    <polygon points="51.504 0.89867 51.504 40.13 45.91 40.13 35.161 50.864 35.161 40.13 0.063012 40.13 0.063012 0.89867" stroke="#7D7D7D" stroke-linejoin="round" stroke-width="3" />
+                    <path d="m17.436 24.133c-1.7017 0-3.0864-1.3817-3.0864-3.0805 0-1.6988 1.3847-3.0805 3.0864-3.0805 1.7007 0 3.0854 1.3817 3.0854 3.0805 0 1.6988-1.3847 3.0805-3.0854 3.0805" fill="#73E6FF" />
+                    <path d="m39.13 24.133c-1.7007 0-3.0854-1.3817-3.0854-3.0805 0-1.6988 1.3847-3.0805 3.0854-3.0805 1.7017 0 3.0854 1.3817 3.0854 3.0805 0 1.6988-1.3837 3.0805-3.0854 3.0805" fill="#73E6FF" />
+                    <path d="m28.283 24.133c-1.7007 0-3.0854-1.3817-3.0854-3.0805 0-1.6988 1.3847-3.0805 3.0854-3.0805 1.7017 0 3.0864 1.3817 3.0864 3.0805 0 1.6988-1.3847 3.0805-3.0864 3.0805" fill="#73E6FF" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

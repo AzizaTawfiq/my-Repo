@@ -1,0 +1,471 @@
+body{   background-color:white;
+    padding: 0px;
+    margin:0px; 
+    box-sizing: border-box;
+    max-width: 100%;
+    overflow-x: hidden;
+     
+    
+        }
+                                /* Start Header */
+#header {   height:30px; 
+            width:100%;
+            background-color:white;
+            position:fixed;z-index:1;
+            box-shadow: 1px 1px 6px rgba(57,73,76,0.35);
+            border:1px solid rgba(57,73,76,0.35);
+            padding-bottom: 40px;
+            padding-top: 0px;
+        
+        }
+#header .di1{     height:100%;
+                  width:40%;
+                  float: left;
+                  
+                }
+#header .di1 a img { margin-top: 10px;padding-left: 80px;}
+#header .di1 input{  width: 212px;
+                        height:10px ;
+                       padding-bottom: 15px;
+                        padding-top: 15px;
+                       
+                        text-align: center ; 
+                        font-size:   14px; 
+                        font-family: sans-serif;
+                        margin-left: 20px;
+                        direction: rtl;
+                        text-align: left;
+                        margin-bottom: 45px;
+                        
+                    }
+#header .di2 {height:100%;width:50% ;float:left; }
+
+#header .di2 a:hover{  color:rgb(21, 141, 10);}
+#header .di2  button{  
+    width: 110px;
+    height: 30px;
+    padding: 8px 12px;
+    background: rgb(47, 153, 34);
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer; 
+    margin-top:10px;
+    color:white;
+    border: 0px;
+
+    }
+    #header .di2 a{        margin-right: 30px;
+        text-decoration: none;
+        color:rgb(66, 63, 63); 
+        font-size:   12px;
+        font-family: sans-serif ;
+        
+
+}/* End Header */
+                    
+                   /* start Nav */
+    nav {height:40px;width:100%; background-color: rgb(247, 247, 247);
+        padding-top: 70px;
+        box-shadow: 1px 1px 6px rgba(57,73,76,0.35);
+        border:1px solid rgba(57,73,76,0.35); }
+    nav ul{list-style: none; }
+    nav ul li {display:inline-block; } 
+    nav ul li a{display:inline-block; 
+                text-decoration: none;
+                color:#222;
+                padding:0px  27px 20px;
+                line-height:14px; 
+                font-size: 12px;
+                font-family: Arial, Helvetica, sans-serif;
+
+              }
+                 /*End Nav */
+
+                          /* Start section */
+section{ height:430px;width:100%; }
+section .di3 {  height:100%;width:45%;float:left; color:whitesmoke  ;}
+section hgroup{padding-top: 70px ;padding-left:105px; }
+section .di3 h1{  line-height:14px; 
+                  font-size: 47px;
+                  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+                  
+                     }
+section .di3 p{ padding-left: 105px;
+                text-align:left;
+                font-size:17px;
+                font-family: Arial, Helvetica, sans-serif;
+                line-height: 25px;
+                   
+            }
+section .di3 input{ margin-left: 15%;
+                    padding: 10px;
+                    width: 250px;
+                    height: 15px;
+                    padding-left: 20px;
+                    font-size: 14px;
+                    margin-top: 10px;
+                    margin-right: 5px;
+                    font-size: 12px;
+            }
+section .di3  button{  padding:5px 15px ;
+                        height: 40px;
+                        width: 120px;
+                        font-size: 15px;
+                        font-weight: bold;
+                        font-family: sans-serif;
+                        background-color: #37a000;
+                        color:white;
+                        border: none;
+                    }                         
+
+section .di4 {  height:100%;
+                width:40%;
+                float:left;
+                margin-right:15%;
+                background-size: cover;
+                }
+section .di4 p { color:white;
+                 position: relative;top:80%;left: 60%;
+                 
+
+                 
+}
+                     /* End section */
+                   
+                      /*Start section */
+.respon  {   
+                    height:120px;
+                    width:100%;
+                    background-color: rgb(74, 74, 74);
+
+                    }
+.respon img  { position: relative;top:10%;left:-5%;float:right;}
+                
+                            /* End section */
+            
+                             /*Start section */
+#task {   background-color: rgb(244, 244, 244);
+          width: 100%;
+          height:80px;
+          padding-top: 20px;
+          padding-bottom: 50px;
+            }
+#task div{ width: 20%; 
+            height:100% ;
+            float:left;
+            border-left:2px solid rgb(24, 187, 24);
+        
+        }
+#task div h4{padding-left: 25px;text-align:left;margin-bottom:10px;; }
+#task div p:first-child{font-size:25px;padding-left:0px;text-align:center;line-height: 30px;}
+#task div p{text-align:left;line-height: 20px;  }
+                   /* End Section */
+                     
+                    /* Start Section */
+#team{    width:100%; 
+          height:600px ;
+          padding-top:10px;
+          padding-bottom:  40px;
+          background-color:white;
+          clear:both;  }                    
+#team h1{  text-align: center; 
+           padding-top: 40px;
+           font-family: sans-serif;
+           font-weight: bolder;
+           font-style: normal;
+           font-size: 38px; 
+           padding-bottom: 10px;
+        }
+#team div {margin:12px;
+           float:left;
+           width: 20%;
+           height:135px;
+           box-shadow: 1px 1px 6px rgba(57,73,76,0.35);
+           
+      }
+
+#team div img {position:relative;top:30px;left:35%;}
+#team div p {position:relative;top:20px;left:25%;}
+            
+#team button,.butt{                   clear:both;
+                                height: 40px;
+                                width: 200px;
+                                font-size: 13px;
+                                font-weight: bolder;
+                                font-family: sans-serif;
+                                color:rgb(138, 177, 20);
+                                margin-left: 40%;
+                                margin-top: 30px;
+                                border:1px solid rgb(202, 198, 198);
+                                background-color: white;
+                                box-shadow: 1px 1px 6px rgba(57,73,76,0.35);
+                                
+                            
+                            } 
+                           /*  End Section  */
+
+                              /* Start Section  */
+#work {       width: 100%;
+              height:430px;
+              padding-top: 10px;
+              padding-bottom: 30px;
+              background-color: rgb(247, 247, 247);
+              
+               
+            }
+
+#work h1{   text-align: center;
+            padding-top: 40px; 
+            font-family: sans-serif;
+            font-size: 40px;
+            font-weight: bolder;
+    }
+
+#work div{ width: 20%;
+           height:55%;
+           float: left;
+           margin:0px 10px;
+
+
+             
+        }
+
+#work div img{position:relative;top:0px;left:35%;}
+#work div h4{text-align: center;margin-bottom:0px; }
+#work div p{text-align: center;line-height:20px;font-family: Arial, Helvetica, sans-serif;font-size:13px; }
+#work .video{width: 100%;
+            height:60px; 
+           
+            text-align: center;
+              
+        }
+#work .video a{    
+        text-decoration: none;
+        color: rgb(62,148,39);
+        font-size:13px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-left: 6px;
+      } 
+
+#work .video  a:hover{   text-decoration: underline;}
+
+                         /* End Section */
+                          
+                           /*Start Section */
+#price { width:  100%;
+         height:800px ;
+         padding-top: 50px;
+         padding-bottom: 50px;
+         background-color: white;
+}
+                                    
+#price h1{     text-align: center;
+               font-size: 40px;
+               font-family: Arial, Helvetica, sans-serif;
+               line-height: 0px;
+
+}
+
+#price h1+p{  text-align: center;
+              font-weight: lighter;
+              font-family: Arial, Helvetica, sans-serif;
+              font-size: 15px;
+              padding-bottom: 30px;
+             
+              
+   }
+#price article{width:20%;
+                       background-color:rgb(63, 59, 59);
+                       height:20px;
+                       color:white;
+                       position:relative;
+                       top:0px;
+                       left:29.3%;
+                       font-family: Arial, Helvetica, sans-serif;
+                       font-size: 10px;
+                       text-align: center;
+                       padding-top: 10px;
+                       letter-spacing: 3px;
+                       
+                    
+                    }
+
+#price .menu{      height:275px; }
+                  
+
+#price .menu div{      height:275px;text-align: center; }
+#price .menu div h2 { font-family: Arial, Helvetica, sans-serif;line-height:  10px;padding-top: 25px; }
+#price .menu div p{font-family: Arial, Helvetica, sans-serif; font-size: 15px;color:rgb(160, 160, 160);}
+
+#price .prop{    height:307px; }
+  
+#price .prop,#price .prop{  width: 100%;}
+
+#price .prop div{  height:307px;}
+      
+#price .prop div ,#price .menu div{  width: 20%; 
+                                     float: left; 
+                                     box-shadow: 1px 1px 6px rgba(57,73,76,0.35);                          
+                                     margin-left: 25px;
+}
+#price .prop div:first-child,#price .menu div:first-child{margin-left: 100px;}
+#price .menu div button{
+                            height: 40px;
+                            width: 120px;
+                            font-size: 15px;
+                           margin-top: 8px;
+                            font-family: Arial, Helvetica, sans-serif;
+                            background-color: rgb(80, 175, 22);
+                            color:white;
+                            border: none;
+                        }
+#price .menu div span{  display: block;margin-top:20px;font-family:Arial, Helvetica, sans-serif;font-size: 12px; }
+#price .prop div ul{list-style-image: url('../image/correct2.png');}
+#price .prop div li{ padding-left: 10px;
+                    padding-top:8px;
+                    font-size:13px;
+                    font-family: Arial, Helvetica, sans-serif; 
+                    line-height: 19px;
+                    color:rgb(72, 72, 72);
+                    padding-bottom: 8px;
+                
+                }
+#price .prop div p{text-align: center;font-family: Arial, Helvetica, sans-serif;font-size: 13px;  color:rgb(72, 72, 72);}
+ #price .prop div p:first-child{  padding-top:15px;} 
+#price .prop div a{padding-left: 50px; text-decoration:none;color:rgb(25, 175, 25); }
+#price .prop div a:hover{text-decoration:underline;}
+#price .pa{margin-left: 7%;font-family:Arial, Helvetica, sans-serif;font-size:13px;line-height:20px;padding-top:20px;clear:both; }
+                                       /* End Section */
+
+
+
+                                       /* Start Section */
+#insta{ width: 100%;height:500px; background-color:rgb(72, 72, 72);}
+#insta .page,#insta .sound{width: 50%;height:100%;float: left}
+#insta .page{padding-top:70px; }
+#insta .sound{width: 40%;height:100%;float: left;margin-top: 70px}
+#insta .page h1{padding-top: 60px;
+                padding-left: 90px;
+                color:white;
+                font-size: 35px;
+                font-family: Arial, Helvetica, sans-serif;
+
+            }
+#insta .page q{text-align: left;
+    padding-left: 90px;
+    display:block;
+    color:rgb(164, 164, 164);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+
+}
+#insta .page img{width: 40px;
+                 height: 40px; 
+                 float: left; 
+                 border-radius: 50%;
+                 margin:30px 20px 0px 90px; 
+                }
+#insta .page p{ color:rgb(164, 164, 164);font-size: 12px;font-family: Arial, Helvetica, sans-serif;line-height: 20px;}
+
+                                    /* End Section */
+     
+                                    /* Start Section */
+.top{ height:  360px;
+      width: 100%;
+      background-color: white;
+      padding-top: 30px;
+      padding-bottom: 0px;
+      padding-left: 100px;
+
+}
+.top div{width:25%;height: 300px;float: left;}
+.top div p a{  text-align: left;color:black;text-decoration: none;font-size: 14px;}
+.top div p a:hover{  color:rgb(29, 207, 23);text-decoration: underline;}
+                            /* End Section */
+                            
+                                    /* Start Section */
+#build{height: 220px;width: 100%;background-color: rgb(88, 177, 21);padding-top: 15px;padding-bottom: 30px;}
+#build h1{ color:white;text-align: center;font-family: sans-serif;font-size: 40px;}
+#build button{ color:rgb(18, 184, 54);
+               background-color: white; 
+               margin-left: 45%; 
+               font-family: sans-serif;
+               height: 40px;
+               border: none;
+               width:130px ;
+               font-size: 15px;}
+
+                /* End Section */
+                            
+                                    /* Start Section */
+footer{ height: 520px;background-color: rgb(99, 99, 99);
+    padding-top: 25px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+
+}
+#para{   text-align: center; 
+        color:#e0e0e0;
+        margin-top: 0px;
+        font-size:12px;
+        font-family:Arial, Helvetica, sans-serif;
+        padding-bottom:15px;
+    }
+#footer #para a:active{color:green;}   
+hr{width:95%;color:rgb(174, 174, 174);margin-right:90px;}
+footer #total{width: 100%;height: 303px;}
+footer #total #para1{
+                     padding-left: 12%;
+                     color:#e0e0e0;
+                     font-size: 14px;
+                     font-family: Arial, Helvetica, sans-serif;
+}
+footer #total p a{padding-left: 12%;
+                  color:#e0e0e0;
+                  text-decoration: none;
+                  font-family: Arial, Helvetica, sans-serif;
+                  font-size: 13px;
+                
+                }
+footer #total a:hover{color:white;}
+
+footer .links{ width: 30%;height: 303px;float:left;padding-left: 40px;} 
+
+#final{width: 100%;height: 30px;}
+#final a{
+    background: rgb(201, 195, 195);
+    color: rgb(124, 117, 117);padding: 5px;
+    font-size: 15px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    height:20px;
+    margin-left: 5px;margin-top: 0px;}
+i{ font-size:24px;background: rgb(201, 195, 195);color: rgb(124, 117, 117);
+    padding: 5px;
+    font-size: 15px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    height:20px; margin-left: 5px;margin-top: 0px;}
+
+
+
+#final span{color:#e0e0e0; font-family:  Arial, Helvetica, sans-serif;font-size:  12px;  }
+#para3{font-size:13px;font-family:Arial, Helvetica, sans-serif; text-align: center;color:#e0e0e0;padding-top: 20px}
+
+
+       
+
+                      
+                          
+
+ 
+
+    
+    
+
+    
